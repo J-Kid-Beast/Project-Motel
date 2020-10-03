@@ -1,0 +1,212 @@
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Motel: Jerry Motel Inn Room roster: Available rooms: [101, 102, 103, 104, 105]
+Checkin - available Rooms: [101, 102, 103, 104, 105]
+CheckIn - The colony: Cucarachas Uno 100 was assigned room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Checkin - available Rooms: [102, 103, 104, 105]
+CheckIn - The colony: Cucarachas Dos 200 was assigned room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Checkin - available Rooms: [103, 104, 105]
+CheckIn - The colony: Cucarachas Tres 300 was assigned room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 300
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 100
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 200
+Available rooms: [104, 105]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 300
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 100
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 200
+Available rooms: [104, 105]
+Checkin - available Rooms: [104, 105]
+CheckIn - The colony: Cucarachas Cuatro 400 was assigned room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Checkin - available Rooms: [105]
+CheckIn - The colony: Cucarachas Cinco 500 was assigned room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Checkin - available Rooms: []
+Checkin - We're full.
+Checkin - available Rooms: []
+Checkin - We're full.
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 300
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 400
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 100
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 200
+Available rooms: []
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 300
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 400
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 100
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 200
+Available rooms: []
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 300
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 400
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 100
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 200
+Available rooms: []
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 300
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 400
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 100
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 200
+Available rooms: []
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: []
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: []
+A customer is checking out. Right now we have available Rooms: []
+$330.0 paid with credit/debit card
+A customer is checking out. Right now we have available Rooms: [101]
+$405.0 paid with credit/debit card
+A customer is checking out. Right now we have available Rooms: [101, 102]
+A customer is checking out. Right now we have available Rooms: [101, 102]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: [101, 102]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: [101, 102]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: [101, 102]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: [101, 102]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: [101, 102]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: [101, 102]
+Motel: Jerry Motel Inn Room roster: 
+Room: Room Number: 103 Suite Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $160.0
+Is hosting: Cucarachas Tres 292
+Room: Room Number: 105 Deluxe Room, Spray Resistant Shower Cost: $100.0
+Is hosting: Cucarachas Cinco 500
+Room: Room Number: 104 Basic Room, Food Bar Cost: $60.0
+Is hosting: Cucarachas Cuatro 480
+Room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0
+Is hosting: Cucarachas Uno 82
+Room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0
+Is hosting: Cucarachas Dos 300
+Available rooms: [101, 102]
+Dumping the log file for Jerry Motel Inn:
+2020-05-08 22:41:43.935 Colony: Cucarachas Uno 100 safely registered with amenities: [ Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower ] 
+2020-05-08 22:41:43.937 Colony: Cucarachas Dos 200 safely registered with amenities: [ Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower ] 
+2020-05-08 22:41:43.938 Colony: Cucarachas Tres 300 safely registered with amenities: [ Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower ] 
+2020-05-08 22:41:43.942 Colony: Cucarachas Cuatro 400 safely registered with amenities: [ Food Bar ] 
+2020-05-08 22:41:43.943 Colony: Cucarachas Cinco 500 safely registered with amenities: [ Spray Resistant Shower ] 
+2020-05-08 22:41:43.946 No room at the inn for: Cucarachas Seis 600
+2020-05-08 22:41:43.947 No room at the inn for: Cucarachas Siete 700
+2020-05-08 22:41:43.955 Colony: Cucarachas Uno 82 checking out of room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0 for $330.0 paid using MasterRoach card - name: Cucarachas Uno Number ending in: 3206 cvv: 489 Expiration Date: 7/2021
+2020-05-08 22:41:43.956 Colony: Cucarachas Dos 300 checking out of room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0 for $405.0 paid using RoachPay - name: Cucarachas Dos Email: CucarachasDos1234@roachmail.com
+Completed Satisfactorily.

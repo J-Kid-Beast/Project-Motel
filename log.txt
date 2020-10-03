@@ -1,0 +1,9 @@
+2020-05-08 22:41:43.935 Colony: Cucarachas Uno 100 safely registered with amenities: [ Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower ] 
+2020-05-08 22:41:43.937 Colony: Cucarachas Dos 200 safely registered with amenities: [ Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower ] 
+2020-05-08 22:41:43.938 Colony: Cucarachas Tres 300 safely registered with amenities: [ Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower ] 
+2020-05-08 22:41:43.942 Colony: Cucarachas Cuatro 400 safely registered with amenities: [ Food Bar ] 
+2020-05-08 22:41:43.943 Colony: Cucarachas Cinco 500 safely registered with amenities: [ Spray Resistant Shower ] 
+2020-05-08 22:41:43.946 No room at the inn for: Cucarachas Seis 600
+2020-05-08 22:41:43.947 No room at the inn for: Cucarachas Siete 700
+2020-05-08 22:41:43.955 Colony: Cucarachas Uno 82 checking out of room: Room Number: 101 Basic Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $110.0 for $330.0 paid using MasterRoach card - name: Cucarachas Uno Number ending in: 3206 cvv: 489 Expiration Date: 7/2021
+2020-05-08 22:41:43.956 Colony: Cucarachas Dos 300 checking out of room: Room Number: 102 Deluxe Room, Food Bar, Auto Refill Food Bar, Spa, Spray Resistant Shower Cost: $135.0 for $405.0 paid using RoachPay - name: Cucarachas Dos Email: CucarachasDos1234@roachmail.com
